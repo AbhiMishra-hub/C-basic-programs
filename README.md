@@ -1,4 +1,2 @@
 Hello everyone, I am a DSA student.
-I am learning C language currently.
-Therefore I upload my codes on it
-If you have some suggestion then please contact me
+now i am currently doing dsa in leetcode and learning frontend and flutter
